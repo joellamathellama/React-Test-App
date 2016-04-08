@@ -1,8 +1,8 @@
 # React-Test-App
-Test app to see how React works.
+Doing this prior to working on the MakerSquare Thesis project to
+see how React works. This application has no other purpose.
 
-Doing this prior to working on the MakerSquare Thesis project.
-
-Command Steps
-1. npm install
-2. gulp
+# Steps
+$ npm install
+$ gulp
+A new window will open with the application
