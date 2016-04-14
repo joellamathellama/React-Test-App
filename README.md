@@ -2,9 +2,9 @@
 Doing this prior to working on the MakerSquare Thesis project to
 see how React works. This application has no other purpose.
 
-# Steps
-$ npm install
-
-$ gulp
+# Start up
+<b>$ npm install</b>
+<br/>
+<b>$ gulp</b>
 
 A new window will open with the application
